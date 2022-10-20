@@ -1,0 +1,22 @@
+C:\Users\alemo\source\repos\chatClients\chatClients\bin\Debug\chatClients.exe.config
+C:\Users\alemo\source\repos\chatClients\chatClients\bin\Debug\chatClients.exe
+C:\Users\alemo\source\repos\chatClients\chatClients\bin\Debug\chatClients.pdb
+C:\Users\alemo\source\repos\chatClients\chatClients\obj\Debug\chatClients.csproj.AssemblyReference.cache
+C:\Users\alemo\source\repos\chatClients\chatClients\obj\Debug\chatClients.csproj.SuggestedBindingRedirects.cache
+C:\Users\alemo\source\repos\chatClients\chatClients\obj\Debug\chatClients.Form1.resources
+C:\Users\alemo\source\repos\chatClients\chatClients\obj\Debug\chatClients.Properties.Resources.resources
+C:\Users\alemo\source\repos\chatClients\chatClients\obj\Debug\chatClients.csproj.GenerateResource.cache
+C:\Users\alemo\source\repos\chatClients\chatClients\obj\Debug\chatClients.csproj.CoreCompileInputs.cache
+C:\Users\alemo\source\repos\chatClients\chatClients\obj\Debug\chatClients.exe
+C:\Users\alemo\source\repos\chatClients\chatClients\obj\Debug\chatClients.pdb
+C:\Users\USUARIO\Documents\INGENIERIA ESTADISTICA E INFORMATICA\SEMESTRE OCTAVO\SISTEMAS DISTRIBUIDOS CONCURRENTES\chat\chat\chatClients\chatClients\bin\Debug\chatClients.exe.config
+C:\Users\USUARIO\Documents\INGENIERIA ESTADISTICA E INFORMATICA\SEMESTRE OCTAVO\SISTEMAS DISTRIBUIDOS CONCURRENTES\chat\chat\chatClients\chatClients\bin\Debug\chatClients.exe
+C:\Users\USUARIO\Documents\INGENIERIA ESTADISTICA E INFORMATICA\SEMESTRE OCTAVO\SISTEMAS DISTRIBUIDOS CONCURRENTES\chat\chat\chatClients\chatClients\bin\Debug\chatClients.pdb
+C:\Users\USUARIO\Documents\INGENIERIA ESTADISTICA E INFORMATICA\SEMESTRE OCTAVO\SISTEMAS DISTRIBUIDOS CONCURRENTES\chat\chat\chatClients\chatClients\obj\Debug\chatClients.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\INGENIERIA ESTADISTICA E INFORMATICA\SEMESTRE OCTAVO\SISTEMAS DISTRIBUIDOS CONCURRENTES\chat\chat\chatClients\chatClients\obj\Debug\chatClients.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Documents\INGENIERIA ESTADISTICA E INFORMATICA\SEMESTRE OCTAVO\SISTEMAS DISTRIBUIDOS CONCURRENTES\chat\chat\chatClients\chatClients\obj\Debug\chatClients.Form1.resources
+C:\Users\USUARIO\Documents\INGENIERIA ESTADISTICA E INFORMATICA\SEMESTRE OCTAVO\SISTEMAS DISTRIBUIDOS CONCURRENTES\chat\chat\chatClients\chatClients\obj\Debug\chatClients.Properties.Resources.resources
+C:\Users\USUARIO\Documents\INGENIERIA ESTADISTICA E INFORMATICA\SEMESTRE OCTAVO\SISTEMAS DISTRIBUIDOS CONCURRENTES\chat\chat\chatClients\chatClients\obj\Debug\chatClients.csproj.GenerateResource.cache
+C:\Users\USUARIO\Documents\INGENIERIA ESTADISTICA E INFORMATICA\SEMESTRE OCTAVO\SISTEMAS DISTRIBUIDOS CONCURRENTES\chat\chat\chatClients\chatClients\obj\Debug\chatClients.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\INGENIERIA ESTADISTICA E INFORMATICA\SEMESTRE OCTAVO\SISTEMAS DISTRIBUIDOS CONCURRENTES\chat\chat\chatClients\chatClients\obj\Debug\chatClients.exe
+C:\Users\USUARIO\Documents\INGENIERIA ESTADISTICA E INFORMATICA\SEMESTRE OCTAVO\SISTEMAS DISTRIBUIDOS CONCURRENTES\chat\chat\chatClients\chatClients\obj\Debug\chatClients.pdb

@@ -1,0 +1,5 @@
+C:\Users\USUARIO\Documents\INGENIERIA ESTADISTICA E INFORMATICA\SEMESTRE OCTAVO\SISTEMAS DISTRIBUIDOS CONCURRENTES\Tranferencia de Archivos\obj\Debug\net6.0\Tranferencia de Archivos.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\INGENIERIA ESTADISTICA E INFORMATICA\SEMESTRE OCTAVO\SISTEMAS DISTRIBUIDOS CONCURRENTES\Tranferencia de Archivos\obj\Debug\net6.0\Tranferencia de Archivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\INGENIERIA ESTADISTICA E INFORMATICA\SEMESTRE OCTAVO\SISTEMAS DISTRIBUIDOS CONCURRENTES\Tranferencia de Archivos\obj\Debug\net6.0\Tranferencia de Archivos.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\INGENIERIA ESTADISTICA E INFORMATICA\SEMESTRE OCTAVO\SISTEMAS DISTRIBUIDOS CONCURRENTES\Tranferencia de Archivos\obj\Debug\net6.0\Tranferencia de Archivos.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\INGENIERIA ESTADISTICA E INFORMATICA\SEMESTRE OCTAVO\SISTEMAS DISTRIBUIDOS CONCURRENTES\Tranferencia de Archivos\obj\Debug\net6.0\Tranferencia de Archivos.csproj.CoreCompileInputs.cache

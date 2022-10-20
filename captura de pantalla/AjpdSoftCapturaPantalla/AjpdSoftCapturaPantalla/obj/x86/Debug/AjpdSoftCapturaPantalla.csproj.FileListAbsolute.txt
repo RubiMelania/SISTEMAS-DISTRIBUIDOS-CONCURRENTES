@@ -1,0 +1,36 @@
+C:\Users\52815331V.NEWTON\AppData\Local\Temporary Projects\AjpdSoftCapturaPantalla\bin\Debug\AjpdSoftCapturaPantalla.exe
+C:\Users\52815331V.NEWTON\AppData\Local\Temporary Projects\AjpdSoftCapturaPantalla\bin\Debug\AjpdSoftCapturaPantalla.pdb
+C:\Users\52815331V.NEWTON\AppData\Local\Temporary Projects\AjpdSoftCapturaPantalla\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\52815331V.NEWTON\AppData\Local\Temporary Projects\AjpdSoftCapturaPantalla\obj\x86\Debug\AjpdSoftCapturaPantalla.formCapturarPantalla.resources
+C:\Users\52815331V.NEWTON\AppData\Local\Temporary Projects\AjpdSoftCapturaPantalla\obj\x86\Debug\AjpdSoftCapturaPantalla.Properties.Resources.resources
+C:\Users\52815331V.NEWTON\AppData\Local\Temporary Projects\AjpdSoftCapturaPantalla\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\52815331V.NEWTON\AppData\Local\Temporary Projects\AjpdSoftCapturaPantalla\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\52815331V.NEWTON\AppData\Local\Temporary Projects\AjpdSoftCapturaPantalla\obj\x86\Debug\AjpdSoftCapturaPantalla.exe
+C:\Users\52815331V.NEWTON\AppData\Local\Temporary Projects\AjpdSoftCapturaPantalla\obj\x86\Debug\AjpdSoftCapturaPantalla.pdb
+d:\52815331v\mis documentos\visual studio 2010\Projects\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\obj\x86\Debug\AjpdSoftCapturaPantalla.exe
+d:\52815331v\mis documentos\visual studio 2010\Projects\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\obj\x86\Debug\AjpdSoftCapturaPantalla.pdb
+d:\52815331v\mis documentos\visual studio 2010\Projects\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\bin\Debug\AjpdSoftCapturaPantalla.exe
+d:\52815331v\mis documentos\visual studio 2010\Projects\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\bin\Debug\AjpdSoftCapturaPantalla.pdb
+d:\52815331v\mis documentos\visual studio 2010\Projects\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\52815331v\mis documentos\visual studio 2010\Projects\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\obj\x86\Debug\AjpdSoftCapturaPantalla.formCapturarPantalla.resources
+d:\52815331v\mis documentos\visual studio 2010\Projects\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\obj\x86\Debug\AjpdSoftCapturaPantalla.Properties.Resources.resources
+d:\52815331v\mis documentos\visual studio 2010\Projects\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\52815331v\mis documentos\visual studio 2010\Projects\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Mis documentos\Escritorio\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\obj\x86\Debug\AjpdSoftCapturaPantalla.pdb
+E:\Mis documentos\Escritorio\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\bin\Debug\AjpdSoftCapturaPantalla.exe
+E:\Mis documentos\Escritorio\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\bin\Debug\AjpdSoftCapturaPantalla.pdb
+E:\Mis documentos\Escritorio\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Mis documentos\Escritorio\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\obj\x86\Debug\AjpdSoftCapturaPantalla.formCapturarPantalla.resources
+E:\Mis documentos\Escritorio\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\obj\x86\Debug\AjpdSoftCapturaPantalla.Properties.Resources.resources
+E:\Mis documentos\Escritorio\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Mis documentos\Escritorio\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Mis documentos\Escritorio\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\obj\x86\Debug\AjpdSoftCapturaPantalla.exe
+E:\Mis documentos\Visual Studio 2010\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\obj\x86\Debug\AjpdSoftCapturaPantalla.exe
+E:\Mis documentos\Visual Studio 2010\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\obj\x86\Debug\AjpdSoftCapturaPantalla.pdb
+E:\Mis documentos\Visual Studio 2010\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\bin\Debug\AjpdSoftCapturaPantalla.exe
+E:\Mis documentos\Visual Studio 2010\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\bin\Debug\AjpdSoftCapturaPantalla.pdb
+E:\Mis documentos\Visual Studio 2010\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Mis documentos\Visual Studio 2010\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\obj\x86\Debug\AjpdSoftCapturaPantalla.formCapturarPantalla.resources
+E:\Mis documentos\Visual Studio 2010\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\obj\x86\Debug\AjpdSoftCapturaPantalla.Properties.Resources.resources
+E:\Mis documentos\Visual Studio 2010\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Mis documentos\Visual Studio 2010\AjpdSoftCapturaPantalla\AjpdSoftCapturaPantalla\obj\x86\Debug\GenerateResource.write.1.tlog

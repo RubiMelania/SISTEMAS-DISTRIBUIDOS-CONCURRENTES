@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jNiuviUGCVhD8fosXtCqRMZFuZ/fDubUIeJ97qJ60FETMUdG0Dnn4L19aAVlk4HR89ZH+runC43J/ALb+t+2Ig==",
+  "success": true,
+  "projectFilePath": "/home/radeon/Documents/Finesi/SistemasDistribuidos/programas/burbleThearts/burbleThearts.csproj",
+  "expectedPackageFiles": [
+    "/home/radeon/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

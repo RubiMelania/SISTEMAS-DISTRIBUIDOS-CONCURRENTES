@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\chat",
+    "\\chat\\chatClients",
+    "\\chat\\chatClients\\chatClients",
+    "\\chat\\chatClients\\chatClients\\obj",
+    "\\chat\\chatClients\\chatClients\\obj\\Debug",
+    "\\chat\\chatClients\\chatClients\\obj\\Debug\\TempPE",
+    "\\chat\\chatClients\\chatClients\\obj\\Release",
+    "\\chat\\ChatServer",
+    "\\chat\\ChatServer\\ChatServer",
+    "\\chat\\ChatServer\\ChatServer\\bin"
+  ],
+  "SelectedNode": "\\chat\\chatClients\\chatClients\\Form1.Designer.cs",
+  "PreviewInSolutionExplorer": false
+}

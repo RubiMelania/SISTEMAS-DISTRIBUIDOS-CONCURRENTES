@@ -1,0 +1,13 @@
+C:\Users\alemo\source\repos\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\alemo\source\repos\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\alemo\source\repos\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\alemo\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+C:\Users\alemo\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\alemo\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\alemo\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\alemo\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\USUARIO\Documents\INGENIERIA ESTADISTICA E INFORMATICA\SEMESTRE OCTAVO\SISTEMAS DISTRIBUIDOS CONCURRENTES\chat\chat\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\INGENIERIA ESTADISTICA E INFORMATICA\SEMESTRE OCTAVO\SISTEMAS DISTRIBUIDOS CONCURRENTES\chat\chat\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Documents\INGENIERIA ESTADISTICA E INFORMATICA\SEMESTRE OCTAVO\SISTEMAS DISTRIBUIDOS CONCURRENTES\chat\chat\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\INGENIERIA ESTADISTICA E INFORMATICA\SEMESTRE OCTAVO\SISTEMAS DISTRIBUIDOS CONCURRENTES\chat\chat\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\USUARIO\Documents\INGENIERIA ESTADISTICA E INFORMATICA\SEMESTRE OCTAVO\SISTEMAS DISTRIBUIDOS CONCURRENTES\chat\chat\ChatServer\ChatServer\obj\Debug\ChatServer.pdb

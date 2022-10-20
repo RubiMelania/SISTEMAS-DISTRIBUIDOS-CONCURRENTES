@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lkK55XU7E316PG+X9L50+DTZYZaEGhaK/ZNFlUd2jDO0itrGo0p73ZY75uIArSMTp6ud37T0+sxqR2P6VDpjMg==",
+  "success": true,
+  "projectFilePath": "/home/radeon/Documents/Finesi/SistemasDistribuidos/programas/burbleHilos/burbleHilos.csproj",
+  "expectedPackageFiles": [
+    "/home/radeon/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
